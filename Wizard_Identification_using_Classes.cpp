@@ -1,14 +1,3 @@
-/*==========================================================
-
- Title:       Assignment 7 - Wizard Identification using Classes
- Course:      CIS 2252
- Author:      <mohammed tanvvir>
- Date:        <8 /7 /23 >
- Description: This program ....
-
- ==========================================================
-*/
-
 #include <iostream>
 using namespace std;
 
